@@ -2,7 +2,6 @@ import { styled } from "styled-components";
 
 export const StylesHeader = styled.header`
   display: flex;
-  /* height: 10vh; */
   background-color: #fac4ea;
   z-index: 1;
   width: 100%;
